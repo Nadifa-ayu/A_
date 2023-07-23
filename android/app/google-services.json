@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "104526904201",
+    "project_id": "loginn-2bf15",
+    "storage_bucket": "loginn-2bf15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104526904201:android:e4542990c267459ac33f58",
+        "android_client_info": {
+          "package_name": "com.example.gudang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104526904201-t6nooe46rs232bh3pdg5npjulvaktvem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdo6P_NjZ_JlcKzMGyx3DPbcSL2VJ2h7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104526904201-t6nooe46rs232bh3pdg5npjulvaktvem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104526904201:android:633c12963df41b3ac33f58",
+        "android_client_info": {
+          "package_name": "com.example.gudang_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104526904201-t6nooe46rs232bh3pdg5npjulvaktvem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdo6P_NjZ_JlcKzMGyx3DPbcSL2VJ2h7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104526904201-t6nooe46rs232bh3pdg5npjulvaktvem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
